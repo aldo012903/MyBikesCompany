@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyBikesCompany.Business.Bike" Collapsed="true">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACAAAABAAIAAAAAgBAIAAAAAAAAAAAAAgAgAAAAAA=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesCompany.Business.MountainBike" Collapsed="true">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesCompany.Business.RoadBike" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesCompany.Business.Validator" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikesCompany.Business.Users" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAAACAAIAAAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyBikesCompany.Business.Enums.ESuspension" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesCompany.Business.Enums.EColor" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAADAAACA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikesCompany.Business.Enums.ETireType" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAACA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
